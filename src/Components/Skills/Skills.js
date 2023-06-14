@@ -1,7 +1,7 @@
 import React from 'react'
 import './skills.css'
 import {BsPatchCheckFill} from 'react-icons/bs'
-//import { FaCss3Alt, FaHtml5, FaJava } from 'react-icons/fa'
+
 
 const Skills = () => {
   return (
